@@ -21,16 +21,15 @@
 </p>
 <br>
 <br>
-<br>
+
 
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Portfolio Wesite using Tailwind CSS
 
 ## Techstack
 
----
+
 
 - HTML
 - TailwindCSS
@@ -38,7 +37,7 @@
 - Javascript
 - Postcss
 
----
+
 
 ## Running the app
 
