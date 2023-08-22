@@ -25,7 +25,7 @@
 
 
 ## Description
-Portfolio Wesite using Tailwind CSS
+Portfolio Website using Tailwind CSS
 
 ## Techstack
 
